@@ -1,0 +1,21 @@
+ .images{
+    display: flex;
+    gap:20px;
+    /* flex-wrap: wrap; */
+ }
+ .images img {
+
+    width: 100px;
+    height: 200px;
+    background-color: rgb(28, 242, 242);
+   
+ }
+
+ .button{
+
+   width: 500px;
+   margin:0 300px
+
+ }
+
+ 
